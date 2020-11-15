@@ -1,0 +1,24 @@
+h1{
+
+    text-align: center; color: blue;
+    font-size: 30px;
+    background-color: burlywood;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif
+}
+
+body{
+   
+    text-align: left;
+    background-image: url("https://image.shutterstock.com/image-photo/white-transparent-leaf-on-mirror-260nw-1029171697.jpg");
+    background-repeat: repeat-y;
+    background-position: center;
+    
+}
+.Heading{
+    font-size: 50px;
+}
+#SpeacialHeading{
+    text-align: right;
+    color: green;
+}
